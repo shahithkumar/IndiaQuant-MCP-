@@ -1,0 +1,8 @@
+mcp
+yfinance
+pandas
+pandas-ta
+requests
+alpha_vantage
+vaderSentiment
+numpy
