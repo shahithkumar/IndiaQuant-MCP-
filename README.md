@@ -6,6 +6,20 @@ This project perfectly implements **all 10 assignment requirements** while going
 
 ---
 
+## 🧰 All 10 Required Tools Implemented
+1. **`get_live_price`**: Fetch real-time NSE/BSE stock price, daily change %, and volume.
+2. **`get_options_chain`**: Pull live strikes and Open Interest (CE/PE) for indices and equities.
+3. **`analyze_sentiment`**: Generate NLP-driven news sentiment scores and headlines using VADER.
+4. **`generate_signal`**: Advanced algorithmic trading signal (BUY/SELL/HOLD + Confidence rating).
+5. **`get_portfolio_pnl`**: Real-time dynamic portfolio evaluation including explicit trailing Risk Levels.
+6. **`place_virtual_trade`**: Simulated market execution mapped to a local SQL database.
+7. **`calculate_greeks`**: Compute Delta, Gamma, Theta, and Vega natively from scratch via Python math.
+8. **`detect_unusual_activity`**: Scans the options chain for volume spikes > 200% over open interest.
+9. **`scan_market`**: Nifty50 screener parsing real-time RSI limits, signals, and JSON filters.
+10. **`get_sector_heatmap`**: Evaluates major Indian indices (^CNXIT, ^NSEBANK) for intraday shifts.
+
+---
+
 ## 🚀 Key Features & Recruiter Checklist
 
 ### 1. Flawless MCP Protocol Implementation (`mcp`, `FastMCP`)
