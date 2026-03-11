@@ -1,4 +1,4 @@
-# 🇮🇳 IndiaQuant MCP Server
+#  IndiaQuant MCP Server
 
 A professional-grade, fully functional Model Context Protocol (MCP) server for the Indian Stock Market. Built with Python, it utilizes 100% free APIs (`yfinance`, `NewsAPI`, `VADER Sentiment`) to give AI assistants like Claude a quantitative trading edge. 
 
